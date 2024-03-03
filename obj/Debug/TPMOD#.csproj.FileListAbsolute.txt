@@ -1,0 +1,10 @@
+C:\Users\alwin\source\repos\TPMOD#\TPMOD#\bin\Debug\TPMOD#.exe.config
+C:\Users\alwin\source\repos\TPMOD#\TPMOD#\bin\Debug\TPMOD#.exe
+C:\Users\alwin\source\repos\TPMOD#\TPMOD#\bin\Debug\TPMOD#.pdb
+C:\Users\alwin\source\repos\TPMOD#\TPMOD#\obj\Debug\TPMOD#.csproj.AssemblyReference.cache
+C:\Users\alwin\source\repos\TPMOD#\TPMOD#\obj\Debug\TPMOD_.Form1.resources
+C:\Users\alwin\source\repos\TPMOD#\TPMOD#\obj\Debug\TPMOD_.Properties.Resources.resources
+C:\Users\alwin\source\repos\TPMOD#\TPMOD#\obj\Debug\TPMOD#.csproj.GenerateResource.cache
+C:\Users\alwin\source\repos\TPMOD#\TPMOD#\obj\Debug\TPMOD#.csproj.CoreCompileInputs.cache
+C:\Users\alwin\source\repos\TPMOD#\TPMOD#\obj\Debug\TPMOD#.exe
+C:\Users\alwin\source\repos\TPMOD#\TPMOD#\obj\Debug\TPMOD#.pdb
